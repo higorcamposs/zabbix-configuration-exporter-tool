@@ -19,7 +19,7 @@ The `Zabbix Configuration Exporter Tool` is a command-line utility designed to e
 ### Installation
 To install the necessary libraries, run:
 ```bash
-pip install pyzabbix rich
+pip3 install pyzabbix rich
 ```
 
 ### Usage
