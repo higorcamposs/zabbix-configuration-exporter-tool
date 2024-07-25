@@ -4,7 +4,7 @@
 ---
 The Zabbix Configuration Exporter Tool is a command-line utility designed to export various configurations from a Zabbix server.
 
-### How It Works
+### How it works
 
 1. **Prompt for Details**: The tool prompts the user to enter the Zabbix server IP, authentication method, and credentials.
 2. **Export Choice**: Users select what type of configuration they want to export.
